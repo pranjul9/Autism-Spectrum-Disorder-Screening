@@ -3,6 +3,7 @@ Autism Spectrum Disorder (ASD) is a neurodevelopmental condition associated with
 The rapid growth in the number of ASD cases worldwide necessitates datasets related to behaviour traits. However, such datasets are rare making it difficult to perform thorough analyses to improve the efficiency, sensitivity, specificity and predictive accuracy of the ASD screening process. Presently, very limited Autism datasets associated with clinical or screening are available and most of them are genetic in nature.
 
 Factorplot between relation amd Gender
+
 ![download](https://user-images.githubusercontent.com/20815620/144904222-fd50c50a-2f4c-42da-b321-8923e01e3995.png)
 
 ROC curve for classifier
