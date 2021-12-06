@@ -10,3 +10,11 @@ ROC curve for classifier
 
 ![download](https://user-images.githubusercontent.com/20815620/144904644-95eac0a8-a7ad-482b-ad53-9884b29003d2.png)
 
+**Accuracy for different models are:**
+
+**Accuracy of Test data Using Decision Tree: 1.00**
+
+**Accuracy of Test data using Logistic Regression: 0.97**
+
+**Accuracy of Test data using NB: 0.88**
+
